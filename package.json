@@ -8,7 +8,7 @@
     "npm": "6.x"
   },
   "scripts": {
-    "start": "node backend.js"
+    "start": "node backend.js",
     "build": "ng build",
     "heroku-postbuild": "echo This runs after Heroku installs dependencies, but before Heroku prunes and caches dependencies.",
     "heroku-prebuild": "echo This runs before Heroku installs dependencies.",
